@@ -2,4 +2,4 @@
 
 #This is a simple demo project to understand git and github
 <br>
-Author :- Krishna Patil
+Author :- Krishna Patil (Software Engineer)
